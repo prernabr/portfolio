@@ -1,0 +1,59 @@
+body {
+  font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:#9575DE ;
+    background-image:  url('C:/Users/USER/OneDrive/Desktop/port/annie-spratt-0ZPSX_mQ3xI-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color:#E966A0 ;
+  }
+
+
+#header {
+  background-color: #2B2730;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+#content {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #6554AF;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+.project {
+  margin-bottom: 20px;
+}
+
+.project h3 {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.project p {
+  margin-bottom: 10px;
+}
